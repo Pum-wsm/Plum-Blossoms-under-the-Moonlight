@@ -1,0 +1,8 @@
+/* 桂海碑林 碑刻标题字体 */
+h1, .site-title {
+  font-family: "方正魏碑", "汉仪魏碑", "宋体", serif;
+  font-weight: normal;
+  letter-spacing: 3px;
+  color: #111;
+  text-shadow: 1px 1px 2px #777;
+}
